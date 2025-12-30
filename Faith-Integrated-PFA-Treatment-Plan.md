@@ -34,17 +34,36 @@ This template provides a structured yet flexible framework for delivering Psycho
 
 ### 1.3 Information Gathering (Needs & Concerns)
 - **Primary Needs Identified:** (Check all that apply)
-  - □ Medical attention
-  - □ Shelter/housing
-  - □ Food/water
-  - □ Communication with family/friends
-  - □ Childcare/eldercare
-  - □ Financial/legal assistance
-  - □ Spiritual/religious support
-  - □ Other: ________________
+  - □ Medical attention  
+    *Next steps:* ________________
+  - □ Shelter/housing  
+    *Next steps:* ________________
+  - □ Food/water  
+    *Next steps:* ________________
+  - □ Communication with family/friends  
+    *Next steps:* ________________
+  - □ Childcare/eldercare  
+    *Next steps:* ________________
+  - □ Financial/legal assistance  
+    *Next steps:* ________________
+  - □ Spiritual/religious support  
+    *Next steps:* ________________
+  - □ Other: ________________  
+    *Next steps:* ________________
 - **Trauma Exposure Details:** (Brief description of event(s))
   ________________
 - **Current Concerns & Questions:** ________________
+
+### 1.4 Resource Connection & Next Steps
+*For each identified need, note the action taken, resource connected, and follow‑up required.*
+- **Medical attention:** ________________
+- **Shelter/housing:** ________________
+- **Food/water:** ________________
+- **Communication:** ________________
+- **Childcare/eldercare:** ________________
+- **Financial/legal:** ________________
+- **Spiritual/religious:** ________________
+- **Other:** ________________
 
 ---
 
@@ -72,12 +91,21 @@ This template provides a structured yet flexible framework for delivering Psycho
   - □ Negative (punishing God reappraisals, demonic attribution, self‑condemnation)
 - **Beliefs About Suffering & Healing:** (Theological perspectives that may influence recovery)
   ________________
+- **Differentiating Healthy Spirituality vs. Spiritual Struggle:** (Use prompts such as: “Does your faith currently feel like a source of comfort or a source of distress?” “Have you experienced changes in your spiritual beliefs since the trauma?” “Are there spiritual practices that have become harder or more meaningful?”)
+  ________________
 
 ### 2.3 Cultural & Spiritual Strengths
 - **Cultural Resiliency Factors:** (Family cohesion, community networks, traditional healing practices)
   ________________
 - **Spiritual Resources:** (Faith that provides hope, meaning, comfort; supportive religious community; sacred texts)
   ________________
+
+### 2.4 Consent & Collaboration for Faith Integration
+- **Discussion of Faith Integration:** Clinician and client discuss the potential role of faith in treatment, including client’s preferences and boundaries.
+- **Documentation of Preferences:** Record client’s desire for faith‑based elements, secular approach, or mixed approach.
+- **Ongoing Consent:** Revisit consent periodically and when introducing new faith‑based interventions.
+- **Client’s Stated Preference:** □ Desire faith integration   □ Prefer secular approach   □ Mixed/unsure  
+  *Notes:* ________________
 
 ---
 
@@ -103,6 +131,8 @@ This template provides a structured yet flexible framework for delivering Psycho
      ________________
 
 ### 3.3 Faith‑Integrated Interventions
+**Note on Inclusivity:** While this template includes Christian‑centric examples (e.g., scripture, prayer), clinicians should adapt faith‑based elements to the client's specific religious tradition or omit them if the client prefers a secular approach. Always prioritize client autonomy and cultural appropriateness.
+
 - **Collaborative Goal‑Setting:** Discuss how faith can be a resource; obtain consent for faith‑based elements.
 - **Possible Faith‑Based Strategies:** (Tailor to client’s beliefs)
   - □ Use of comforting scriptures/passages (e.g., Psalm 23, Isaiah 41:10)
@@ -137,6 +167,8 @@ This template provides a structured yet flexible framework for delivering Psycho
   ________________
 - **Faith‑Based Resources:** (Pastoral counseling, congregational care teams, spiritual direction)
   ________________
+- **Secular Community Resources:** (Local mental health crisis lines, survivor support networks, trauma‑informed yoga/mindfulness programs, community centers, etc.)
+  ________________
 - **Cultural/Community Resources:** (Ethnic community centers, cultural healers, interpreters)
   ________________
 - **Online/Print Materials Provided:** (List handouts, websites, books)
@@ -163,6 +195,16 @@ This template provides a structured yet flexible framework for delivering Psycho
 - **Spiritual Safety Plan:** (Scripture, prayer, or ritual to turn to in crisis)
   ________________
 - **Emergency Services:** When to call 911 or go to the nearest emergency room.
+
+#### 5.2.1 Coping Card
+Create a brief, client‑created list of personalized coping strategies (including both secular and faith‑based options) that the client can keep with them. Include:
+- Grounding techniques (e.g., 5‑4‑3‑2‑1 exercise, deep breathing)
+- Supportive self‑statements (e.g., “This feeling will pass,” “I am safe now”)
+- Spiritual practices (e.g., a favorite prayer, scripture verse, mindfulness meditation)
+- People to contact (names, phone numbers)
+- Places that bring calm (e.g., a park, a quiet room, a house of worship)
+
+*Coping Card summary:* ________________
 
 ### 5.3 Long‑Term Considerations
 - **Potential Need for Longer‑Term Trauma Therapy:** (e.g., TF‑CBT, EMDR, CPT)
